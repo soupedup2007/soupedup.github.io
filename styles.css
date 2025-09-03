@@ -2,7 +2,7 @@
 
 body {
     height: 100vh;
-    background-color: aliceblue;
+    background-color: hsl(212, 45%, 89%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,7 +10,7 @@ body {
 .card {
     
     width: 18vw;
-    max-width: 250px;
+    max-width: 300px;
     min-width: 200px;
     background-color: white;
     padding: 0.75em;
